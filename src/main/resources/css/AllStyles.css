@@ -1,0 +1,11 @@
+.* {
+    -fx-text-fill: white; /* Changes text color to white */
+}
+
+.table-view .column-header {
+    -fx-text-fill: white; /* Changes header text color to white */
+}
+.table-cell-selected {
+    -fx-text-fill: white; /* Change the text color to blue */
+    -fx-background-color: #b9adad;
+}
